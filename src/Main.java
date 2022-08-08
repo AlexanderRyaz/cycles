@@ -20,5 +20,5 @@ public class Main {
             if (year % 79 ==0) {
                 System.out.println(year);}
         }
-        }
     }
+}
